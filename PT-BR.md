@@ -80,6 +80,12 @@ Certificado em Redação Técnica e Agile Scrum, com proficiência em Git, Confl
 - Google for Education Nível 2 (2024)
 
 ---
+## Habilidades
+
+- Competências: Redação Técnica, Documentação, Gestão de Conhecimento, Metodologias Ágeis, E-learning, Produção de Conteúdo Digital, Comunicação clara, bilíngue e multicultural.
+- Ferramentas: Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office.
+- Idiomas: Português (Nativo), Inglês (Fluente - C2), Espanhol (Básico - A2), Francês (Básico - A2).
+---
 
 ## Educação
 
