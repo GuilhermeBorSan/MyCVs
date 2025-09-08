@@ -7,8 +7,8 @@ Hoje produzo documentação clara, acessível e multilíngue — conectando tecn
 Today, I produce clear, accessible, and multilingual documentation, connecting technology to users.
 
 
-- 🇧🇷 [Leia em Português](./README-pt.md)  
-- 🇺🇸 [Read in English](./README-en.md)
+- 🇧🇷 [Leia em Português](./PT-BR.md)  
+- 🇺🇸 [Read in English](./EN-US.md)
 
 ---
 
