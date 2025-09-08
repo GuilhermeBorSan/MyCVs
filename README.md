@@ -1,4 +1,4 @@
-# Guilherme Borges Santos - Technical Writer
+# Guilherme Borges Santos: Technical Writer
 
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeBorSan-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilhermeborsan)
 [![CV PT-BR](https://img.shields.io/badge/CV-PTBR-green?style=flat-square&logo=adobeacrobatreader)](https://github.com/GuilhermeBorSan/MyCVs/blob/main/PT-BR.md)
