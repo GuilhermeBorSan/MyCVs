@@ -77,6 +77,15 @@ Certified in Technical Writing and Agile Scrum, proficient in Git, Confluence, J
 
 ---
 
+## Skills
+- Core Skills: Technical Writing, Documentation, Knowledge Management, Information Design, Agile Methodologies,
+Content Design, Digital Learning, Multilingual Communication.
+- Technologies: Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft
+Office.  
+- Languages: Portuguese (Native), Inglês (Fluent - C2), Spanish (Basic - A2), French (Basic - A2).  
+
+---
+
 ## Education
 
 **Centro Universitário Estácio de Santa Catarina** — Brasília, DF  
