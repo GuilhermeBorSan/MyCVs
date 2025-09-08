@@ -81,19 +81,6 @@ Certificado em Redação Técnica e Agile Scrum, com proficiência em Git, Confl
 
 ---
 
-## Core skills
-
-| Habilidades | Certificações | Tarefas Realizadas | Competências |
-|----------------------------|---------------|----------------------------------|---------------------------|
-| 📝 **Redação Técnica** | 📚 API Technical Writing (REST, JSON, XML) | Contribuo para registros de avaliação padronizados como **Examinador Oral para a University of Cambridge**, assegurando consistência e clareza nos resultados. | 💬 Comunicação clara e objetiva |
-| 🗂 **Gestão de Conhecimento** | 📚 Tech Writers Master Class | Estruturei processos de documentação educacional como **Mentor de Inovação na Casa Thomas Jefferson**, apoiando treinamentos e projetos internos. | 🧠 Organização e gestão de informações |
-| 🎨 **Design de Informação** | 📚 JPDocu School | Desenvolvi materiais digitais e instrucionais como **Coordenador Bilíngue no Colégio La Salle**, integrando metodologias inovadoras ao ensino. | 🔍 Atenção a detalhes, capacidade de síntese |
-| ⚡ **Metodologias Ágeis** | 📚 Agile Scrum Fundamentals | Conduzi iniciativas colaborativas em equipes multiculturais como **Mentor de Inovação na Casa Thomas Jefferson**, alinhando práticas pedagógicas e processos. | 🤝 Trabalho em equipe e adaptabilidade |
-| 🛠 **Git, Markdown, Confluence, Jira** | 📚 Curso de JIRA e Confluence | Mantive documentação organizada e versionada como **Educador de Inglês na Casa Thomas Jefferson**, garantindo acesso e atualização contínua. | 🎯 Rigor técnico e precisão |
-| 🌍 **Idiomas**: Inglês (C2), Espanhol (A2), Francês (A2) | 📚 Google for Education Level 2 | Realizei tradução e revisão de conteúdos multilíngues como **Educador de Inglês na Casa Thomas Jefferson**. | 🌐 Comunicação intercultural e empatia |
-
----
-
 ## Educação
 
 **Centro Universitário Estácio de Santa Catarina** — Brasília, DF  
