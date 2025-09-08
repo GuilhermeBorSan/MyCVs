@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-GBSantos20@uol.com.br-purple?style=flat-square&logo=gmail)](mailto:GBSantos20@uol.com.br)
 
 ## 👤 Quem sou eu
-- Sou redator técnico em transição da área de educação, especializado em produzir documentação clara e estruturada.   
+Sou redator técnico em transição da área de educação, especializado em produzir documentação clara e estruturada.   
 - +8 anos de experiência em **ensino, gestão de projetos e produção de conteúdo**.     
 - +200 educadores impactados por metodologias documentadas.
 
@@ -55,7 +55,7 @@ Conecto **clareza, tecnologia e usuários**:
 
 ---
 ## 👤 Who am I
-- I am a technical writer transitioning from the education field, focusing on clear, structured documentation.    
+I am a technical writer transitioning from the education field, focusing on clear, structured documentation.    
 - 8+ years in **teaching, project management, and content production**.      
 - 200+ educators impacted.   
 
