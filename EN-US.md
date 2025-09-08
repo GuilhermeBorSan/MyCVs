@@ -77,19 +77,6 @@ Certified in Technical Writing and Agile Scrum, proficient in Git, Confluence, J
 
 ---
 
-## Core Skills
-
-| Skills | Certifications | Activities | Competencies |
-|--------|----------------|------------|--------------|
-| 📝 **Technical Writing** | 📚 API Technical Writing (REST, JSON, XML) | Produce standardized evaluation records as **Speaking Examiner at University of Cambridge**, ensuring clarity and consistency. | 💬 Clear and precise communication |
-| 🗂 **Knowledge Management** | 📚 Tech Writers Master Class | Structured documentation processes as **Innovation Mentor at Casa Thomas Jefferson**, supporting training and internal projects. | 🧠 Organization and information management |
-| 🎨 **Information Design** | 📚 JPDocu School | Created digital and instructional materials as **Bilingual Coordinator at Colégio La Salle**, integrating innovative teaching methods. | 🔍 Attention to detail and synthesis |
-| ⚡ **Agile Methodologies** | 📚 Agile Scrum Fundamentals | Coordinated collaborative initiatives in multicultural teams as **Innovation Mentor at Casa Thomas Jefferson**. | 🤝 Teamwork and adaptability |
-| 🛠 **Git, Markdown, Confluence, Jira** | 📚 JIRA and Confluence Course | Maintained structured and versioned documentation as **English Teacher at Casa Thomas Jefferson**. | 🎯 Technical rigor and accuracy |
-| 🌍 **Languages**: English (C2), Spanish (A2), French (A2) | 📚 Google for Education Level 2 | Translated and reviewed multilingual content as **English Teacher at Casa Thomas Jefferson**. | 🌐 Cross-cultural communication and empathy |
-
----
-
 ## Education
 
 **Centro Universitário Estácio de Santa Catarina** — Brasília, DF  
